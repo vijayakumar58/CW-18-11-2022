@@ -1,0 +1,1 @@
+var url = "https://63770e1e81a568fc250af19a.mockapi.io/:user"
